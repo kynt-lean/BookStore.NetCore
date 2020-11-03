@@ -1,0 +1,14 @@
+/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.HttpApi.Client/bin/Debug/netstandard2.0/Acme.BookStore.HttpApi.Client.deps.json
+/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.HttpApi.Client/bin/Debug/netstandard2.0/Acme.BookStore.HttpApi.Client.dll
+/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.HttpApi.Client/bin/Debug/netstandard2.0/Acme.BookStore.HttpApi.Client.pdb
+/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.HttpApi.Client/bin/Debug/netstandard2.0/Acme.BookStore.Application.Contracts.dll
+/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.HttpApi.Client/bin/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.dll
+/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.HttpApi.Client/bin/Debug/netstandard2.0/Acme.BookStore.Application.Contracts.pdb
+/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.HttpApi.Client/bin/Debug/netstandard2.0/Acme.BookStore.Domain.Shared.pdb
+/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.HttpApi.Client/obj/Debug/netstandard2.0/Acme.BookStore.HttpApi.Client.csprojAssemblyReference.cache
+/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.HttpApi.Client/obj/Debug/netstandard2.0/Acme.BookStore.HttpApi.Client.AssemblyInfoInputs.cache
+/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.HttpApi.Client/obj/Debug/netstandard2.0/Acme.BookStore.HttpApi.Client.AssemblyInfo.cs
+/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.HttpApi.Client/obj/Debug/netstandard2.0/Acme.BookStore.HttpApi.Client.csproj.CoreCompileInputs.cache
+/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.HttpApi.Client/obj/Debug/netstandard2.0/Acme.BookStore.HttpApi.Client.csproj.CopyComplete
+/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.HttpApi.Client/obj/Debug/netstandard2.0/Acme.BookStore.HttpApi.Client.dll
+/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.HttpApi.Client/obj/Debug/netstandard2.0/Acme.BookStore.HttpApi.Client.pdb

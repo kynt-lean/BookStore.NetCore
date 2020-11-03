@@ -1,0 +1,1394 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/kyEtz119SXZhDxLCl1OC8WeFRYthelYNn2KqObZfmY0=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Acme.BookStore.Blazor.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Acme.BookStore.Blazor.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/s7XVBbPszkCr7TfTS2C2x-t8-7cako0oAGdEaoOokss=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Authorization.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Authorization.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Threading.Tasks.Extensions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Threading.Tasks.Extensions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/mscorlib.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/mscorlib.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/s1jmIj8JETh0vdd88gHWMNG0z7TmzIpQxsIbEfd5XOI=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Collections.Immutable.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Collections.Immutable.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Memory.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Memory.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/netstandard.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/netstandard.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Xml.Linq.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Xml.Linq.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Core.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/WebAssembly.Net.WebSockets.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/WebAssembly.Net.WebSockets.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/WebAssembly.Bindings.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/WebAssembly.Bindings.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Numerics.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Numerics.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Xml.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Xml.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Mono.Security.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Mono.Security.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Transactions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Transactions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Runtime.Serialization.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Runtime.Serialization.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.ServiceModel.Internals.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.ServiceModel.Internals.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Net.Http.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Net.Http.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.ComponentModel.Composition.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.ComponentModel.Composition.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.IO.Compression.FileSystem.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.IO.Compression.FileSystem.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.IO.Compression.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.IO.Compression.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Drawing.Common.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Drawing.Common.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Data.DataSetExtensions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Data.DataSetExtensions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Data.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Data.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/C4iHzDU4kEkfkK3SIyKjVTaq4QMC_rxGcdJTuYWWiJM=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Metadata.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Metadata.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/r2LBjPMuwCEVf-LvUtgv5qnp0CdmnZ9HsVnmdyFTVI4=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/jy2f00FanofpLVaiV0ZLVMwgeQoAAw0lk598xWLLjCw=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Options.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/gVSVeQ5oYtEMI_SN4sTxxJUMIQATQ0ezbACLauNlgX8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/yFTwTS16q6jefUDI6nVJSEskooCjUCYQYKoLAkZ2nck=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/OJlJ-n0p9-SW1kpHK6YE8g6oWHKImKZVf_VvZlVBJ60=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Authorization.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Authorization.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/rDjEPaMrgMrkfXcCXJdJJPIloMuCu-r1mD1aGnfuViA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Core.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/aTPo5C8-eaNXrjJc_UVhwDaxxbAC7b8CaVfQrr5hqjM=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Configuration.CommandLine.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.CommandLine.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/82sEKBgu95AIpX2e3BERkGfab67cRbYE_U9pXDXZrwc=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/MGgkslhetJPueVToOvktCyKIWYeYUzZYHf7-ZZANxzI=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/3vEWs8q9zoT9WwwDBVvPM9DheF5Z-hnYUL4ynnW9s1E=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.EnvironmentVariables.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/c7mzA1Qk4Ur0xQ4Ej184c6hZmiaNGE-cOXBjyZ6sV4k=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Configuration.UserSecrets.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.UserSecrets.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/2UTWIChD621TEI5KRnigjJuUoMVLNpn95CQ0pWAjPoQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.FileProviders.Abstractions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.FileProviders.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/pKThO_jG0nQHlOZm1sqxKPOvxrbNHYsYUs0hYc6ip_8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/db7DMYNF6JInYzPp29UCJhob7taBT_BQwtmEEY-KqnA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Configuration.FileExtensions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.FileExtensions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/8UagqZvaryX4whDnf1E99NzrQR0P5H3faalue3fVEn4=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.FileProviders.Physical.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.FileProviders.Physical.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/Cq09KTT5QW9ebecwn8RIWQODlT5yCqb3-GhcsBAG5qM=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.FileSystemGlobbing.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.FileSystemGlobbing.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Text.Json.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Text.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Buffers.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Buffers.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/EcDo-GQZkQrOT1Xd0jMPE3NwT5lsMq5DNsPxHVidLDQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Numerics.Vectors.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Numerics.Vectors.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Text.Encodings.Web.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Text.Encodings.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/klzZyxHMpT87nVN5l9Oxdsw6q1ZwdTfK7DTKG3xQEaY=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Localization.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Localization.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/7mDsxqpLh4tgxfHct8cgTls-UxCxpU1pCq78lvUJjO4=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Localization.Abstractions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Localization.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ZPq6B-OiLSulwux7YLXx-NihIbjxBmbDQijJemWNhow=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Logging.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Logging.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/d04zIStVcFNO5larHi32IT4SSemvK1abhwxWZVFJcRM=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/Vbyd_oMQDfdqjf9s6QnLhLMEru2xObzeJtWzKnXqv_E=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Options.ConfigurationExtensions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/EeUPdae3xM81t25kY_ogYdtNO1MWbxy7izvmVBlk4eQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Configuration.Binder.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.Binder.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/JVfTbQhkx5znKzo0do8fG2TuHhD0TJ1eRNfd-9kgc3w=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Runtime.Loader.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Runtime.Loader.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/B1Onk1wpTNnX5hyY53ERZcJxJCOv0uhDaOi-Odqg91U=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Nito.AsyncEx.Context.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Nito.AsyncEx.Context.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/QOHKgbatk4D8536oUooannHHBETagmJGgwGmYcmuR34=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Nito.AsyncEx.Tasks.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Nito.AsyncEx.Tasks.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/nRoTyEpsTNxbC5y37e7SFn_W9CKUDwUU1cQWiSnt58I=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Nito.Disposables.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Nito.Disposables.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/Nz1oFEM_vix2mjfaj9mkP9GRg1_30L9yS1KMaJXk7VM=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Hosting.Abstractions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Hosting.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.ComponentModel.Annotations.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.ComponentModel.Annotations.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.ComponentModel.DataAnnotations.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/KfnkZPxX7bfy-USMthTTaJOlEw6U8K2weES_lj0hOeQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.MultiTenancy.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.MultiTenancy.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/D9pMP6Ys8a0k-pwtVebkyaEdZ6Jst8RM7sw7Tgb1Fz8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Security.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Security.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/lVGrNgCA1vHXx2CWomo4EugxpvqXR_KqY-FjN32O6O8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Data.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Data.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/IHoU26gVkYQveyPBAuu5GpF-Q5WJzH1IhRYJPlHiPTc=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Uow.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Uow.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/kCxcqvLY7BbPt2d91lpxVMNVwxzGJ4gSlxIu4azo1fY=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.ObjectExtending.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.ObjectExtending.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/9f4BDl1xhhd5W7XjYs3dWLjjx_UIYBVc0EvFoyK9AIs=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Validation.Abstractions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Validation.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/qD12wSB0H2pJJBfnDdkgMZUBbqc6jGRwse6X_cic6sM=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Localization.Abstractions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Localization.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/UFVwWfzkCrpq3J4FMs6GmVCrZi_-Rbq5OShWWSTSgQQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Autofac.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Autofac.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/RcGmVD6GepoLNUlt0DdL7ME67TycUDtJcWzHJwBUtIA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Blazorise.Icons.FontAwesome.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Blazorise.Icons.FontAwesome.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/A1FNAHZltX6j1uITGR2AmpE0HH1_iAQhYiPy8WEs6_A=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/hbUQCCeR7kLtkXTi7cA3LzwJA0OgAL-_vZwKdJYa17Y=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Blazorise.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Blazorise.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Components.Forms.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/YVKMyH3AN_9RSb6NRRz7JNpG-bR_qYX2hqVAouLpfz4=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.JSInterop.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/okC5XVUVhglJYarRu8Qkia35ZRSTrER64Vz2gR3_yCA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Blazorise.Bootstrap.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Blazorise.Bootstrap.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ykTiLAQlJl3YFL0D_K2CgqIC0r1KS3mYN2Bts50UezY=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.BlazoriseUI.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.BlazoriseUI.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/3w8GToygJ8hl8zYw1WH7Emzd89fC4UF4vBrqjaG9950=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Blazorise.DataGrid.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Blazorise.DataGrid.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/LAEqmGn8WYQdR7VEkxzTAocI7SwM26e4XULwSB7ZS64=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.ObjectMapping.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.ObjectMapping.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/1FUS0M18rbep_lb78bnYQdLLtxVen1CwzQwRw8AnRSU=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.UI.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.UI.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/3IMkgMg53qviiZQV-XoUywmIRrk-Jvbu4KZjzzjqwxQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Localization.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Localization.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/mRd6TL4DYldo1ko9czkjEDcoiPdMPrJxz3dekwV6OOY=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Newtonsoft.Json.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Newtonsoft.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/rANLrLdpeEii4JU_9GWeCnwOEvj1mAgxwRVvpckDcRg=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Settings.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Settings.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/Ve2a1cF3SWEAmXv9VnVl5jCBr6cz6Rqq6d8NO39g7eQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.VirtualFileSystem.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.VirtualFileSystem.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/X8q-J6xDR2OMyfHdxQPiSBq7c-JA9sFQIaV069DRKPA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.FileProviders.Embedded.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.FileProviders.Embedded.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/RhaAZ90Xox5pQGsuv3SdCo77UINamuK5AAOHEu5h3G4=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.FileProviders.Composite.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.FileProviders.Composite.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/9jtvBx4sbjZ6WicZcrHetdcUsNXBAY5kXvbsfOeUs1w=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.ExceptionHandling.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.ExceptionHandling.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/vDFnLRntAmdQY6UzByGm1bKdRkYi-S1zB9zwZ4r88dw=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Ddd.Application.Contracts.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Ddd.Application.Contracts.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/euHA9tKEyJDWbZ_3nHcDo1e0Gn-yjZ_ANhaCfX0DEhI=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Auditing.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Auditing.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/z3yijYMNNvYZVwvFRQBLtekAO3PGWUfsTuhVNmCacbo=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Threading.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Threading.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/TOHbJrLsOLTNoMxQBOnoNqfjazjJ3YwC_4AyWsFOr0I=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Timing.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Timing.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/FqMCqc-mNOOkHJpExg5at1DhRvX4BJ1JLBPrGUqYLEU=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/TimeZoneConverter.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/TimeZoneConverter.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/7Jo91dAMnkl5RLVVFeN0N95fjPTv-oipE-kiolPICvQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Json.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/g3FF8V61BY_8-oBnxier5O48qnMYWcBVAfS3Uv5Fi-0=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.AspNetCore.Components.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/nX4qkwyRNStYx_VW5oCY2rS5bm8gw1rXZhxcXl_C--8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.AspNetCore.Mvc.Contracts.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.AspNetCore.Mvc.Contracts.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/WWk8UrB7Y0OllCIPu--midvuZc107jnH9WlKpKOzucU=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Ddd.Application.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Ddd.Application.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/fOosLe2LqxpnqGwcrd6TYOml_JsgdU4jQcVQTb49o1A=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Linq.Dynamic.Core.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Linq.Dynamic.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/yTznKFXYjwtGYUGUdxYEw8gA1A_IWlMYOncOmAAyJas=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Reflection.Emit.ILGeneration.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Reflection.Emit.ILGeneration.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/4A297N6Xf0UZNMTrY_4COe43Hmcrtxb-eTiqTJ5M6wA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Reflection.Emit.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Reflection.Emit.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/4BtJe_pkk4-7rXxWSoCcq8HIoJcGTHhKVq6xZbaiAtw=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Guids.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Guids.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/gMC1IxiB6qmIgQVK-RXFfrhg1M5V5hiKqyhpjehZYWg=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Features.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Features.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/9DI21roNiHd8B3WxGxdaRl75tztgzR6yOUc9vr3c8KM=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Validation.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Validation.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/vAdrd2XVA-HOWMx1wa9v7KHWJdfRCdMXMU3spKm2jhs=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Http.Abstractions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Http.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/-uxcFzFuvUHLTj_ofxUSY9SnN1Kd4y7Cj7KlJasSTps=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Ddd.Domain.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Ddd.Domain.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/67jcpmpz55gvyz795aFgRHbnZt0kjROTYOZDKp-heqg=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.EventBus.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.EventBus.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/MkqQl7BgM_H0ZUuC9f3jDGJdt59TtF06PYV8Crowj3U=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Http.Client.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Http.Client.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/kAK6id0XZGEZB9QKqPOCozk0jD1zrU1g-3vfraDwSgY=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Http.Polly.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Http.Polly.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/2Fko7Lrhp7qO8hi8vDjnMdqlMUVrXRjhYPSaXjhEAlw=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Polly.Extensions.Http.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Polly.Extensions.Http.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/N0S3tkkK_T28kAx579pskQnJtFvJyCd8gU935OdjoHo=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Polly.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Polly.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/B-oESpYkQrX_xyc6YFF7bgo-Jz-tm8VAtin2peTPDrA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Http.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Http.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/VX5LWCpLV-D0gwo93u3XIcRok19lF_qn6Mr_Kko8djY=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Castle.Core.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Castle.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/D2VIDaJ4RXF137pOsLTaYr0PcOtsgKNcyohlYtciLZI=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Xml.ReaderWriter.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Xml.ReaderWriter.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/LDxu9Sj9OxSBhmj-rzZPAmQaYAeuOf2ZCFbvrFIHC6k=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.IO.FileSystem.Primitives.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.IO.FileSystem.Primitives.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/WOuyyXorC98FVmPBn89B4UpQzNRD00zIT5xtbn_Q7Bg=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Console.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Console.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/vrQresrQjYlvmLF1TcQFTDnoyCPKWUc39vSvo5EfwmQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.AppContext.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.AppContext.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/4eZjhWp6rSxTu81oFjw5IocOeS7dQ0cijunLjlWelJA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Globalization.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Globalization.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/XAnEkn2DkDU-Xn588HKF6xZ5f3g9Eyzmw3DjEGtn2lM=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Runtime.InteropServices.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Runtime.InteropServices.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/1FBfAreOfbXDp0WA294BCrk0EIa5ZqlghOuvDlqFtk8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Runtime.Extensions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Runtime.Extensions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/U4q43ZeuBEBaCygKJwr18fjDYwnFv22MHuvMVqnpNzI=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Resources.ResourceManager.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Resources.ResourceManager.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/4dQUGeFzD0iXX4yB9Cu1hjYyOKQJinxo1YsgBsDK8l8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Reflection.TypeExtensions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Reflection.TypeExtensions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/egPOud7Mcxx-20iAZiekEmazNYxAwi8HO1Z5_a4Ikww=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Linq.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Linq.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/Bb8JHOjtpvbZWsd86j5fo-YwXYSlTxedlPo9_RxSlLk=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Dynamic.Runtime.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Dynamic.Runtime.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/iRJn1bctufxFpdvL9HsDYr8vyHJ43sN8tu_e9uvVEbs=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.ObjectModel.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.ObjectModel.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/-4oTK8YMD6i_DybGa_zAJd12CkYFNAaS61OeLkwBPjA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Xml.XmlDocument.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Xml.XmlDocument.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/lLWJgnbDM6iLIBomx6JJVxiWHk5hFYXAM3RmjE59VrE=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Collections.Specialized.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Collections.Specialized.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/mzuLugvmIOgYjOk4f3eQas5TIH2wER7oBvjOd1j22ps=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Threading.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Threading.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/RdBPwqgnAdTg7p1svJWuRNJXNqg0C-quM2upT5VUjCQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.ComponentModel.TypeConverter.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.ComponentModel.TypeConverter.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/_bo-gRpjD1-10RNDdjD8HdgWGMCeHZYAaJvXce9K5U8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Diagnostics.TraceSource.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Diagnostics.TraceSource.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/0ohVYRI6PuBfqKMapEmY5Oi3pImDZfhTLw5evJsfue0=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.IO.FileSystem.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.IO.FileSystem.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/wDPt-zh9xGop_Vp7dKTGGcT9bZIAatqQ-eQLhtASLgw=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Text.Encoding.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Text.Encoding.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/6cxIu3mlJOB9Actp4JdoEz-xMT0vnQvnxVMtIobv6EU=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.ComponentModel.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.ComponentModel.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/fFIyhWRt3TsR3191q2WtKgMNr3s-jNNnO4P5rrUojjA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Reflection.Extensions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Reflection.Extensions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/Pt0gKZW54C_3DsLw_QRTQSP_ycXbOGSm2UWYSNZZYQ0=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Reflection.Primitives.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Reflection.Primitives.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/CWadMXLl7iJZmsOz7PzKreH2b5rpyAFY8KYvg17YAv8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.IO.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.IO.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/zWDzFtXZzC_KLMGVRm7c4nLj3X7VnzT9SMdxCVqb3dE=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Collections.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Collections.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/9wi0kDjDIr2As0DGysE9JuDt-uTnuiip7mf4UlXg_BI=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Linq.Expressions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Linq.Expressions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/8Q_uKcqkDjFjcXfcYU073dQlKb5IRta-UHFtV3Tjz9s=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Reflection.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Reflection.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/tFMMNru1KjM9tY0dph3potA-qlmOtgZOwHLp_imUF7Y=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Diagnostics.Debug.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Diagnostics.Debug.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/6CpyRQAYrVPJfNYBKH0K9lWX_rNPO15lwNhGHPmvxtk=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Runtime.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Runtime.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/4T3pBn6Gih2BK0TR92yhw47dz-rg32t3UcxWV66vGEA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Castle.Core.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Castle.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ncDl20EkUZnp94Se7SHuZbzfpFLFKMg_xIfIYVpd4dY=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Castle.Core.AsyncInterceptor.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Castle.Core.AsyncInterceptor.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/8dynj0ZNDct5PnzabU1UPjr3MkzEbINFGHEclruBa8Q=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Http.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Http.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/H85ztlDstbkX5xf3qFIgdH83RHM8r8_Gg3_UsPTMWAU=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Minify.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Minify.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/yvx9YeIQ99pC7VefiTailIxvaaSLvntoWay6A2so8r8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/NUglify.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/NUglify.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/AjsASOBXUrnxLdWlWOqU_1V0YlFZSCrDxdpR-hLQvT4=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.AspNetCore.Mvc.Client.Common.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.AspNetCore.Mvc.Client.Common.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/Q4myS1tQzLSOCNUax0nBIZ_fnQ6jo-CEFUp4K-TyRQc=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Caching.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Caching.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/LJI_r2yvvMs0Xi7RYILlyvb41gJ9GnjrceD66_QG9aw=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Caching.Memory.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Caching.Memory.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/6ysEOP9lxiqwvZx9wEpn6Ech_govZnuM3cs-zosfPAI=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Caching.Abstractions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Caching.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/numnKDfYQuG-CB1m6xEDflBt8u4jc5Atzj9PeKqe-R4=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Serialization.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Serialization.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ke6Q-xgZ4S1GlnU3EPO8TQYcI5FdDbg9t4C-JGKvSrY=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Components.Authorization.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.Authorization.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/a2TWgR1IbjakEOq3tyzBsgfaAIV8UEeg7dLnh8E1AIg=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Acme.BookStore.Domain.Shared.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Acme.BookStore.Domain.Shared.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/iYKbdSdeozHhlk0Bc_4ChO0luurUg6Z-Ghbw65_zIKU=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.TenantManagement.Domain.Shared.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.TenantManagement.Domain.Shared.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/7PIWST-To-aJjpC4FUA-1tYdOAI8grO61IcCf6xSOC0=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.SettingManagement.Domain.Shared.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.SettingManagement.Domain.Shared.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/qRSw0SM63zfafU4ggoqJFXY0JmiTR7JpUYkqQXotxW8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.PermissionManagement.Domain.Shared.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.PermissionManagement.Domain.Shared.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/9s3vNWWyR3tqV0DgJicV_ozVavPBE4BMMBe1gs3X8o0=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.IdentityServer.Domain.Shared.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.IdentityServer.Domain.Shared.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/msk5TzokfG6IVlFMwW0Fn7Skw1p7iGH3a0niKiWw7-8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Identity.Domain.Shared.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Identity.Domain.Shared.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/X2fqfbOibGSGmh01sidXWO2XMr6Xj71F8UWALJxJfWk=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Users.Domain.Shared.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Users.Domain.Shared.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/r14iCoyIQNf69EapuLrs_qwoComAMNaqWcowcF8tw3w=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.FeatureManagement.Domain.Shared.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.FeatureManagement.Domain.Shared.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/phPQUVfBoP9LnLDiotJ2A54IHYYAcbb-6Z1yXlu7slM=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.BackgroundJobs.Domain.Shared.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.BackgroundJobs.Domain.Shared.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/gjlVNvx_Z3gGF0c1QmYI3FNoW8toYQc48Q_swBtK-dA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.AuditLogging.Domain.Shared.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.AuditLogging.Domain.Shared.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/cnfBcnezlPSVsXAacBodiFSOsf-EP9JPsNODl48erRM=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Acme.BookStore.Application.Contracts.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Acme.BookStore.Application.Contracts.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/5HdWx7xbpBuK73HXecQ824-a-RipBVUjh_DrTZqSy5s=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.TenantManagement.Application.Contracts.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.TenantManagement.Application.Contracts.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/OwlqCA57YvY8iX0SU2wyfTis2Q0VgjaKV8WJ6T6KvvQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.PermissionManagement.Application.Contracts.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.PermissionManagement.Application.Contracts.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/U2e67V3OFtNJD3CpUqo7UqNnijCdydN53wJcz6u_Vvw=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Identity.Application.Contracts.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Identity.Application.Contracts.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/xSgW214cuD4O8AQO6VHk1h4pLMewjS0l0yx9DsLYDpU=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Users.Abstractions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Users.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/mz9xTuHMFenqjlIMO1Sn_Soj29b0BkmEXryzgSp8y40=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.FeatureManagement.Application.Contracts.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.FeatureManagement.Application.Contracts.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ZF9IW9GdT1DnEXGAhVeBPSeUtTat4vugt4BQL1VYKfw=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Account.Application.Contracts.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Account.Application.Contracts.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/AbWZIV0k4GOA_qT6O3719kiJxV5XbyEXKBWjy7wE8w4=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/3uBrq2i0IKlbSzOXontLams0SP7DFkXoF4dYDyF_hlM=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.AutoMapper.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.AutoMapper.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/FB6QHziuMV7zBbrPVNL8GPa2yf2NPj0XpFXil2gtX0w=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/AutoMapper.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/AutoMapper.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ubyINHXDmWOAugBDEb8CCz_uV68eordXiYDxpUeRBvg=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.CSharp.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.CSharp.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/skJ035PbLNpkHZmJV8JiYLau31CNlUpe-ih1fz1M8dQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.UI.Navigation.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.UI.Navigation.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/OE5rO5Ln_fS6zGbZg4zncJvZC4Ao7R1Y4Gm5I3fmzlE=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.AspNetCore.Components.WebAssembly.Theming.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.AspNetCore.Components.WebAssembly.Theming.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/BFDKln7kuGGuEkNhUAHcYCnZ5YGkh0Z5-FMJHScWl58=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Http.Client.IdentityModel.WebAssembly.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Http.Client.IdentityModel.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/X9sRCC1rWzubw8trHLKSiI0FqJ98dxht_qP57g82KV4=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/IdentityModel.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/IdentityModel.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/8KFLKJFduB2-phErj28ZOk-4rvIQ5E1FRGG9cM_Caz8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.IdentityModel.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.IdentityModel.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/OgNmB1o6YPzkRK39__Hbxy0JhiR8ajuy7TypJ3_gyGA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Http.Client.IdentityModel.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Http.Client.IdentityModel.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/uHffjVJXR05P1U6JUKe5jkBtNumIR1V3B_58j5497UY=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.TenantManagement.Blazor.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.TenantManagement.Blazor.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/zRH0-StYAU8K7pHRE-hYzaMbwHLfmy4Li9INt4f-gUI=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.FeatureManagement.Blazor.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.FeatureManagement.Blazor.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/VuMnU37BAZ8c7tD_k8aa6qRMALE6swFm67Vd_S_yBqA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.FeatureManagement.HttpApi.Client.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.FeatureManagement.HttpApi.Client.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/okmfXHe1y_kKMAbV6wUYw60yc_j6z2eQvzDptWo9V0A=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.TenantManagement.HttpApi.Client.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.TenantManagement.HttpApi.Client.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/WCYt2oVqQl7p023K_R1jnS51NfxomR4GKNt9xNEogsc=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Identity.Blazor.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Identity.Blazor.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ZNa3SoqzmyV4J0i-mxXRWnvhms0dQFgR7nWFIQnU3is=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.PermissionManagement.Blazor.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.PermissionManagement.Blazor.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/1EueoRyJWD2BiGM8pVLFrpyzPsHDLoheJZtG1_Wafrk=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.PermissionManagement.HttpApi.Client.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.PermissionManagement.HttpApi.Client.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/m-h5aWkxc5KIogifM_fGflHlFjl1Ntm6IB8KS8dMPs0=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Identity.HttpApi.Client.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Identity.HttpApi.Client.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/Vd8iQNebJE1jLZ4_6AU5tSTbdplyLl_7Ly01gH-GrFQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/fCa1WiZzCwNqU_QJrVq5QmTa_SRDWZk0jqX4T_edIiY=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Acme.BookStore.HttpApi.Client.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Acme.BookStore.HttpApi.Client.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/49iFKoB6XRwE1phbO_AYFDxNR5TwTdL1TtSdJigsCZo=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Account.HttpApi.Client.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Account.HttpApi.Client.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/KfxwoPmtkxz7IMQ8LcgFnwbVQXWtexbBEOo67d56Q1w=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Autofac.WebAssembly.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Autofac.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/CrdsErZbt818D19TXwwCbCEADjUUaLCmhvtuEb5CY8Y=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Autofac.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Autofac.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/FiF24JZH7_GpEeUZ5kqfrh6pOIdv-UQ_cAuJUStE488=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Autofac.Extras.DynamicProxy.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Autofac.Extras.DynamicProxy.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/iSa9Fn2YhjimAB854Czo-PzxH-vWLkflib2Hj7UD2MU=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Acme.BookStore.Blazor.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Acme.BookStore.Blazor.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/7B1_QsLX5QKBEJyMXhY52gc6cz5yoccZxNnNOf2JRiY=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Authorization.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Authorization.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/x7st3L7vwIH30ko57YiDD6wSrTeo1h1F6vk_XPfH4Ng=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Core.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Core.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/lbyBkXB-Ykdzh4owac5ZAZ9uNsgUR-yZcwMOfOBbfS8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Nito.Disposables.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Nito.Disposables.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/EzNPirF_omt7EDpyM6rDWwtDkPDf7qJ4_k-d5IOlbnw=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.MultiTenancy.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.MultiTenancy.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/iMfycE80zNCb3F1seDz4wBw6nUEwj9qF4tbyA4m7xuY=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Security.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Security.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/rj62H9A4GLqYvMtkTI5ciRQVTboqjGDmFVjKTiJh_Xo=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Data.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Data.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/u2sVwfMEBcjvxVUzvPAPg3_N_jOf_hUqgRcJ9wK7vBs=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Uow.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Uow.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/apk8pLmwt-3y5OO_1FG_jXiNN8jy1383ncOmkBZchXo=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.ObjectExtending.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.ObjectExtending.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/q4t3TKDIw0u6yj9jpSwlr4hrfs93CsLqJ3HD5YIEezs=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Validation.Abstractions.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Validation.Abstractions.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/8um-KnZ9i-s-bnlLBamuvVvtxig0Wfd6_wXvxytBICQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Localization.Abstractions.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Localization.Abstractions.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/8VZuXKMksrfRKfpeLs-QMd0BydG_YNqMsaoSp0om4xA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Autofac.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Autofac.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/uRL_QeP6CUSgvE03A6ek_rHLmYiVir7INaWEnTA4v1E=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.BlazoriseUI.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.BlazoriseUI.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/aAcUCK-zXKsk_r8BIjW6dkj93BQE5F7AVveiomMpLB8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.ObjectMapping.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.ObjectMapping.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/4Nev8fAwtHPg8EFWl7pGA7wXa_mbhMVyhnhBaQARSG8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.UI.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.UI.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/qtV2lTQxEO7WXYWiteOrJJ_1cRwXZF_bV4RkmGfk6k8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Localization.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Localization.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/wwrdGA3-jK_t0MRKUGA6RU7BVyB94erIjYNU1OAEuE0=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Settings.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Settings.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/hdF9So1bTR8o_ygrHJkE87rx41GTYwEMRjHW-_nDRvY=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.VirtualFileSystem.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.VirtualFileSystem.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/PF1UnJD1BgijYd1sys5ZwHzl3CVm1ERMxLxqxdXyV8E=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.ExceptionHandling.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.ExceptionHandling.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/dM0ipKtr36d9Pj_EEGECikaec4MnIou8Kd-12FlSIo0=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Ddd.Application.Contracts.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Ddd.Application.Contracts.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/23Bus4yQohQOljZBnOUEwNHfrA0tro-UgO5dqRpah84=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Auditing.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Auditing.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/4D0_-r3gcsA8B-GbayZdQCvLijf7Y9BT8_TiyWmcv0w=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Threading.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Threading.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/sWGGcpLysEm43lA4-IaZCbv9FhDePIjt-DeQV4YwKFo=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Timing.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Timing.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/zlOp0TnaWaRAJe9omaHZVT5jjvKkzG-8Z6zVd9x6tvU=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Json.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Json.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/CJgy3aJm9VQV9PNH5v7GdmxfbNxBt4l0JWG-cW4YmFE=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.AspNetCore.Components.WebAssembly.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.AspNetCore.Components.WebAssembly.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/MROnWSK6ok28t36pCmAWQjxlqCSoGSz8rqKrUM3uDKk=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.AspNetCore.Mvc.Contracts.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.AspNetCore.Mvc.Contracts.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/Ztb666H5BocGBk0Ry3Ey0QtjSG3WpTIAv9Zqh9EGFA8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Ddd.Application.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Ddd.Application.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/lwdXF4XAbawRSGr3pfmCG2ZqKqoEtS03qAWd7IhWJEI=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Linq.Dynamic.Core.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Linq.Dynamic.Core.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/VtY5LBFoMk--Lx22fljot01dd2st0OdzF4GnZ761wq8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Guids.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Guids.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/UTjSnrUA2ywegdKy7I_0ScXaYbX_21DE4UKtjcpR0h8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Features.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Features.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/mdX_KC0z1UMkGbCedmQl8Bt7vtO6k5bxiTq0G_j_TVM=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Validation.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Validation.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/r4r8uhqrrB7fyPF2FuF5aFdwmVbj98zfyROnlMw1LKU=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Http.Abstractions.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Http.Abstractions.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/c7e152AB_ZOk30DRBDUQTQTUHRWyfn2N8Xr1n2m-184=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Ddd.Domain.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Ddd.Domain.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ATBLRFdBJL2LsVqgEdTZ1wVuhXZbN-ON9xjujbyPqJg=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.EventBus.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.EventBus.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/mFrvsE7bUfnDZOFEykZdOpeWxM6XJFkBWH_unVlB97A=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Http.Client.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Http.Client.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/B35qxy9eNBIqR2-AoiTyaFgb9K4DspicfHnWVQ9Shyg=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Castle.Core.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Castle.Core.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/97ymuSRq0s3iUgy5f8nqsUUh6ix52kXzV2ccmgoqJmo=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Http.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Http.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/P1h9b6K5l2Ktd0CRC7qX2zuJYdle0-AQZML5XUz_VRw=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Minify.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Minify.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/1JxfEZDt5O3ve80ed1VrxGrMIDJwdSD597D5Xgxjqj0=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.AspNetCore.Mvc.Client.Common.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.AspNetCore.Mvc.Client.Common.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/gUDVOtEAITT6djbFTc2ZM0T88xWeZZRW3I3nN-ANBcI=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Caching.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Caching.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/e2msKXNz3bKK18QuCqZUdq--INL10azaonBC_5cSQkc=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Serialization.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Serialization.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/-fqzXPincvk1mF74ZUXNgEyGVGfHVY7znD6pFahw5QA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Acme.BookStore.Domain.Shared.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Acme.BookStore.Domain.Shared.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/t-nABOe_JfW6G65EesonjCOrvPoI3ac6Pwkl4FVP9Ps=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.TenantManagement.Domain.Shared.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.TenantManagement.Domain.Shared.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/C6oAki9B5RSZEVVmlUhpKKDuoin4F4P8YZzxUWvcNXI=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.SettingManagement.Domain.Shared.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.SettingManagement.Domain.Shared.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/oK-6tU4xKBhaI2gLphASResyC822Iq4feU1YkhWKD-8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.PermissionManagement.Domain.Shared.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.PermissionManagement.Domain.Shared.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/_MGtdfliDWblYJo24K3tzWg2KuyLOQR8412xX7SOXwI=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.IdentityServer.Domain.Shared.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.IdentityServer.Domain.Shared.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/cIDBxudDiVWl6PwrCaNgvoXmGpIFwCpNsQPo0XQDC5Q=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Identity.Domain.Shared.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Identity.Domain.Shared.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/vtZihxiZ5eYrZbSfzjkT2-CljpMVZ-FrGGVU3oF0Ilg=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Users.Domain.Shared.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Users.Domain.Shared.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/1elTHvoe1TIMHQQ4q0Um9BYYLTRDOxSD7lvjHFm6t5w=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.FeatureManagement.Domain.Shared.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.FeatureManagement.Domain.Shared.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/-nLJlZYKdaiktz9iksWYQCuuArUaRMieNQGbQwKnKU8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.BackgroundJobs.Domain.Shared.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.BackgroundJobs.Domain.Shared.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/JUaOKB2E4piGRciXpNDsvfxoIkmziTv74klLtxSdbno=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.AuditLogging.Domain.Shared.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.AuditLogging.Domain.Shared.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/AgLdn5uhWoGlvOVVycJEvo8upjTDKluUQNDNw0B1mZ0=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Acme.BookStore.Application.Contracts.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Acme.BookStore.Application.Contracts.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/mVRxB6xK7kYe0wwQvSuPVMWUVHmVw9SswMGelYeRSXs=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.TenantManagement.Application.Contracts.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.TenantManagement.Application.Contracts.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/876qJgwOHvQnd4hUINRAa2oyYRypHk1UcoF2tvPmlVQ=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.PermissionManagement.Application.Contracts.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.PermissionManagement.Application.Contracts.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/39qgZDzljU5b8sUcAevHjjVaibYBaZ5O0rPVBByUGAA=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Identity.Application.Contracts.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Identity.Application.Contracts.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/vcfz4qoDV_ZFu_Cq2pEG4DJPguWMQrY9cnEaGG6djh8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Users.Abstractions.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Users.Abstractions.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/iPCudURag5jnxyofI8alLrmqz2s6pKuqxvtKifiFOGk=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.FeatureManagement.Application.Contracts.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.FeatureManagement.Application.Contracts.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/1nDPpHLVdNbCYWP4z0RpfChXvDwRn_r2KhynPwXMFDY=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Account.Application.Contracts.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Account.Application.Contracts.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/l5gfnb-eQsCJl515f2T2HkIGwdThbNKjatbM_KoawjU=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.AutoMapper.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.AutoMapper.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ixf__7inDg_PWK0uEHhOhImCU0WiEUVZTzGYpXONDjw=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.UI.Navigation.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.UI.Navigation.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/bW2HK6xxghjHtAuDheG53VQv0gjrq63zGU31AGZFR-I=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.AspNetCore.Components.WebAssembly.Theming.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.AspNetCore.Components.WebAssembly.Theming.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/3iHVeBbKw5PzK9WfBHHWKfu5UvSce12BEilZ-bDgLcE=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Http.Client.IdentityModel.WebAssembly.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Http.Client.IdentityModel.WebAssembly.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/qww5jZ6wX1ldRUrgoyrSJfbVRkPKFrqoKy5b6qU8BYE=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/IdentityModel.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/IdentityModel.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/uZiDbfrYgbWdFnlZ9g5DNLtw3IqCXhnag6m79HUt6_Y=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.IdentityModel.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.IdentityModel.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/jyERXUpqiqA_YdGx82aW_DZIlsXJhDvgPvJfvSIX3TY=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Http.Client.IdentityModel.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Http.Client.IdentityModel.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/wMDnk9SAylIkpSOjkn3IGiMCiunm1iZX7XIiw_2I7lE=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.TenantManagement.Blazor.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.TenantManagement.Blazor.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/HkxFO0IJ201B5RdmGl3iFfNwlZvqNsClv9ySzdBwRI0=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.FeatureManagement.Blazor.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.FeatureManagement.Blazor.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/wvmNHQ89W4Zyt7tkXfDdIbLMzH3EqSNceGBAmcn6kFo=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.FeatureManagement.HttpApi.Client.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.FeatureManagement.HttpApi.Client.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/fBSjv6bLg4tzC8BFPmiE72mb-nu9SFERS39NrhzLK14=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.TenantManagement.HttpApi.Client.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.TenantManagement.HttpApi.Client.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/G9sa2eEZkfoW0YBnMEzXrFcnNTbMvbvn6S1XfxqRkhw=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Identity.Blazor.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Identity.Blazor.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/A4MxTtgDz5OfI2l2FSWh1-P6yCEprpn2nVVbS5kEs4A=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.PermissionManagement.Blazor.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.PermissionManagement.Blazor.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/nZ-eaFmDzQPtKOSGqIMiYPdWPD1jDTsI9lfycUz0vE4=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.PermissionManagement.HttpApi.Client.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.PermissionManagement.HttpApi.Client.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/I6JBeDEeuU91j6hKyYX6dzWE7m3GjzCaPF5VKKZuISY=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Identity.HttpApi.Client.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Identity.HttpApi.Client.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/akLkTNnLDFTPtJbTaAcEc9IzK6yxiKkEyKvCLnbkfho=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/8TiWstg7eFE1Tiy_TsvsOgQ8O_tKh-VrFciHLALJwEg=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Acme.BookStore.HttpApi.Client.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Acme.BookStore.HttpApi.Client.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/057q98rlh4MYTlesjvTizvMjSMXTBl7o3OqoVfNqPk8=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Account.HttpApi.Client.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Account.HttpApi.Client.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/5S0tGpsiOAHQvuxfv5ygI-raqBYa4dMPZqMEgOsXaZo=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Autofac.WebAssembly.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Autofac.WebAssembly.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/xBQh_Wjeu8bqOU2F_W98sHs4pxpQ0dtAz-UfLH3bfnw=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Volo.Abp.Autofac.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Volo.Abp.Autofac.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/HzkxhkCnLMYDJftNJuvL5pEARIG8YFg_QnKZOWhgErI=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Autofac.Extras.DynamicProxy.pdb",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Autofac.Extras.DynamicProxy.pdb.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
+      "Source": "\/home\/kynt\/.nuget\/packages\/microsoft.aspnetcore.components.webassembly.runtime\/3.2.0\/tools\/dotnetwasm\/wasm\/dotnet.3.2.0.js",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/wasm\/dotnet.3.2.0.js.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "\/home\/kynt\/.nuget\/packages\/microsoft.aspnetcore.components.webassembly.runtime\/3.2.0\/tools\/dotnetwasm\/wasm\/dotnet.timezones.dat",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/wasm\/dotnet.timezones.dat.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash",
+      "Source": "\/home\/kynt\/.nuget\/packages\/microsoft.aspnetcore.components.webassembly.runtime\/3.2.0\/tools\/dotnetwasm\/wasm\/dotnet.wasm",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/wasm\/dotnet.wasm.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash",
+      "Source": "\/home\/kynt\/.nuget\/packages\/microsoft.aspnetcore.components.webassembly.build\/3.2.1\/tools\/blazor\/blazor.webassembly.js",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.webassembly.js.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ZM0QcxOXV-UZaVB4pnEKZPwQPEyu-CWjBXs3Hl9iVy4=.hash",
+      "Source": "\/home\/kynt\/develop\/projects\/netcore-angular\/abp-samples-all\/abp-samples\/BookStore-Blazor-EfCore\/src\/Acme.BookStore.Blazor\/obj\/Debug\/netstandard2.1\/blazor\/blazor.boot.json",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.boot.json.br"
+    }
+  ]
+}

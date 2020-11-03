@@ -1,0 +1,165 @@
+2020-11-03 21:04:21.514 +07:00 [INF] Starting Acme.BookStore.HttpApi.Host.
+2020-11-03 21:04:24.181 +07:00 [INF] User profile is available. Using '/home/kynt/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2020-11-03 21:04:24.294 +07:00 [INF] Loaded ABP modules:
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.AuditLogging.AbpAuditLoggingDomainSharedModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.BackgroundJobs.AbpBackgroundJobsDomainSharedModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.Validation.AbpValidationAbstractionsModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.Security.AbpSecurityModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.Uow.AbpUnitOfWorkModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.Data.AbpDataModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.Settings.AbpSettingsModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.Localization.AbpLocalizationModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.Validation.AbpValidationModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.FeatureManagement.AbpFeatureManagementDomainSharedModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.Users.AbpUsersDomainSharedModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.Features.AbpFeaturesModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.IdentityServer.AbpIdentityServerDomainSharedModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.SettingManagement.AbpSettingManagementDomainSharedModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementDomainSharedModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Acme.BookStore.BookStoreDomainSharedModule
+2020-11-03 21:04:24.295 +07:00 [INF] - Volo.Abp.EventBus.AbpEventBusModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Users.AbpUsersAbstractionModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Authorization.AbpAuthorizationModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Timing.AbpTimingModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Json.AbpJsonModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Threading.AbpThreadingModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Auditing.AbpAuditingModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Guids.AbpGuidsModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Domain.AbpDddDomainModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Application.AbpDddApplicationContractsModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Http.AbpHttpAbstractionsModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Application.AbpDddApplicationModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Account.AbpAccountApplicationContractsModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.FeatureManagement.AbpFeatureManagementApplicationContractsModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementApplicationContractsModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Acme.BookStore.BookStoreApplicationContractsModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Minify.AbpMinifyModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Http.AbpHttpModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.UI.AbpUiModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Identity.AbpIdentityHttpApiModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.Account.AbpAccountHttpApiModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.PermissionManagement.HttpApi.AbpPermissionManagementHttpApiModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.FeatureManagement.AbpFeatureManagementHttpApiModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementHttpApiModule
+2020-11-03 21:04:24.296 +07:00 [INF] - Acme.BookStore.BookStoreHttpApiModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.Castle.AbpCastleCoreModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.Autofac.AbpAutofacModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.AspNetCore.MultiTenancy.AbpAspNetCoreMultiTenancyModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.AuditLogging.AbpAuditLoggingDomainModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.BackgroundJobs.AbpBackgroundJobsAbstractionsModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.BackgroundWorkers.AbpBackgroundWorkersModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.BackgroundJobs.AbpBackgroundJobsModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.AutoMapper.AbpAutoMapperModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.BackgroundJobs.AbpBackgroundJobsDomainModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.Serialization.AbpSerializationModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.Caching.AbpCachingModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.FeatureManagement.AbpFeatureManagementDomainModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.Users.AbpUsersDomainModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.PermissionManagement.Identity.AbpPermissionManagementDomainIdentityModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.IdentityServer.AbpIdentityServerDomainModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.PermissionManagement.IdentityServer.AbpPermissionManagementDomainIdentityServerModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.SettingManagement.AbpSettingManagementDomainModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementDomainModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.TextTemplating.AbpTextTemplatingModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.Emailing.AbpEmailingModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Acme.BookStore.BookStoreDomainModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.UI.Navigation.AbpUiNavigationModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.Account.AbpAccountApplicationModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.TenantManagement.AbpTenantManagementApplicationModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.FeatureManagement.AbpFeatureManagementApplicationModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Acme.BookStore.BookStoreApplicationModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.Users.EntityFrameworkCore.AbpUsersEntityFrameworkCoreModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.Identity.EntityFrameworkCore.AbpIdentityEntityFrameworkCoreModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.IdentityServer.EntityFrameworkCore.AbpIdentityServerEntityFrameworkCoreModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.PermissionManagement.EntityFrameworkCore.AbpPermissionManagementEntityFrameworkCoreModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.SettingManagement.EntityFrameworkCore.AbpSettingManagementEntityFrameworkCoreModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.EntityFrameworkCore.SqlServer.AbpEntityFrameworkCoreSqlServerModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.BackgroundJobs.EntityFrameworkCore.AbpBackgroundJobsEntityFrameworkCoreModule
+2020-11-03 21:04:24.297 +07:00 [INF] - Volo.Abp.AuditLogging.EntityFrameworkCore.AbpAuditLoggingEntityFrameworkCoreModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Volo.Abp.TenantManagement.EntityFrameworkCore.AbpTenantManagementEntityFrameworkCoreModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Volo.Abp.FeatureManagement.EntityFrameworkCore.AbpFeatureManagementEntityFrameworkCoreModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Acme.BookStore.EntityFrameworkCore.BookStoreEntityFrameworkCoreModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Acme.BookStore.EntityFrameworkCore.BookStoreEntityFrameworkCoreDbMigrationsModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.AbpAspNetCoreMvcUiModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.AbpAspNetCoreMvcUiBootstrapModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Bundling.AbpAspNetCoreMvcUiBundlingModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Packages.AbpAspNetCoreMvcUiPackagesModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Widgets.AbpAspNetCoreMvcUiWidgetsModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Theme.Shared.AbpAspNetCoreMvcUiThemeSharedModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.MultiTenancy.AbpAspNetCoreMvcUiMultiTenancyModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.AbpAspNetCoreMvcUiBasicThemeModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Volo.Abp.AspNetCore.Authentication.JwtBearer.AbpAspNetCoreAuthenticationJwtBearerModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Volo.Abp.Identity.AspNetCore.AbpIdentityAspNetCoreModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Volo.Abp.Account.Web.AbpAccountWebModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Volo.Abp.Account.Web.AbpAccountWebIdentityServerModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Volo.Abp.AspNetCore.Serilog.AbpAspNetCoreSerilogModule
+2020-11-03 21:04:24.298 +07:00 [INF] - Acme.BookStore.BookStoreHttpApiHostModule
+2020-11-03 21:04:24.828 +07:00 [DBG] Started background worker: Volo.Abp.BackgroundJobs.BackgroundJobWorker
+2020-11-03 21:04:24.835 +07:00 [DBG] Started background worker: Volo.Abp.IdentityServer.Tokens.TokenCleanupBackgroundWorker
+2020-11-03 21:04:24.918 +07:00 [INF] Starting IdentityServer4 version 3.1.3.0
+2020-11-03 21:04:25.245 +07:00 [INF] Using the default authentication scheme Identity.Application for IdentityServer
+2020-11-03 21:04:25.245 +07:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for authentication
+2020-11-03 21:04:25.245 +07:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-in
+2020-11-03 21:04:25.245 +07:00 [DBG] Using Identity.External as default ASP.NET Core scheme for sign-out
+2020-11-03 21:04:25.245 +07:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for challenge
+2020-11-03 21:04:25.245 +07:00 [DBG] Using Identity.Application as default ASP.NET Core scheme for forbid
+2020-11-03 21:04:25.668 +07:00 [INF] Initialized all ABP modules.
+2020-11-03 21:04:25.744 +07:00 [INF] Now listening on: https://localhost:44363
+2020-11-03 21:04:25.744 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-11-03 21:04:25.744 +07:00 [INF] Hosting environment: Development
+2020-11-03 21:04:25.744 +07:00 [INF] Content root path: /home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.HttpApi.Host
+2020-11-03 21:04:37.927 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44363/  
+2020-11-03 21:04:38.394 +07:00 [DBG] Login Url: /Account/Login
+2020-11-03 21:04:38.394 +07:00 [DBG] Login Return Url Parameter: ReturnUrl
+2020-11-03 21:04:38.395 +07:00 [DBG] Logout Url: /Account/Logout
+2020-11-03 21:04:38.395 +07:00 [DBG] ConsentUrl Url: /Consent
+2020-11-03 21:04:38.395 +07:00 [DBG] Consent Return Url Parameter: returnUrl
+2020-11-03 21:04:38.395 +07:00 [DBG] Error Url: /Account/Error
+2020-11-03 21:04:38.396 +07:00 [DBG] Error Id Parameter: errorId
+2020-11-03 21:04:38.587 +07:00 [INF] Executing endpoint 'Acme.BookStore.Controllers.HomeController.Index (Acme.BookStore.HttpApi.Host)'
+2020-11-03 21:04:38.697 +07:00 [INF] Route matched with {action = "Index", controller = "Home", area = "", page = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult Index() on controller Acme.BookStore.Controllers.HomeController (Acme.BookStore.HttpApi.Host).
+2020-11-03 21:04:38.739 +07:00 [INF] Executing RedirectResult, redirecting to /swagger.
+2020-11-03 21:04:38.748 +07:00 [INF] Executed action Acme.BookStore.Controllers.HomeController.Index (Acme.BookStore.HttpApi.Host) in 42.4626ms
+2020-11-03 21:04:38.749 +07:00 [INF] Executed endpoint 'Acme.BookStore.Controllers.HomeController.Index (Acme.BookStore.HttpApi.Host)'
+2020-11-03 21:04:38.759 +07:00 [INF] Request finished in 836.4145ms 302 
+2020-11-03 21:04:38.763 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44363/swagger  
+2020-11-03 21:04:38.772 +07:00 [INF] Request finished in 8.5541ms 301 
+2020-11-03 21:04:38.778 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44363/swagger/index.html  
+2020-11-03 21:04:38.827 +07:00 [INF] Request finished in 48.3266ms 200 text/html;charset=utf-8
+2020-11-03 21:04:38.872 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44363/swagger/swagger-ui.css  
+2020-11-03 21:04:38.876 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44363/swagger/swagger-ui-bundle.js  
+2020-11-03 21:04:38.876 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44363/swagger/swagger-ui-standalone-preset.js  
+2020-11-03 21:04:38.931 +07:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2020-11-03 21:04:38.931 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2020-11-03 21:04:38.943 +07:00 [INF] Request finished in 66.7239ms 200 application/javascript
+2020-11-03 21:04:38.943 +07:00 [INF] Request finished in 70.778ms 200 text/css
+2020-11-03 21:04:38.947 +07:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2020-11-03 21:04:38.948 +07:00 [INF] Request finished in 71.6579ms 200 application/javascript
+2020-11-03 21:04:39.269 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44363/swagger/favicon-16x16.png  
+2020-11-03 21:04:39.286 +07:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2020-11-03 21:04:39.297 +07:00 [INF] Request finished in 27.3772ms 200 image/png
+2020-11-03 21:04:39.386 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44363/swagger/v1/swagger.json  
+2020-11-03 21:04:39.769 +07:00 [INF] Request finished in 383.7087ms 200 application/json;charset=utf-8
+2020-11-03 21:05:06.441 +07:00 [DBG] Stopped background worker: Volo.Abp.BackgroundJobs.BackgroundJobWorker
+2020-11-03 21:05:06.441 +07:00 [DBG] Stopped background worker: Volo.Abp.IdentityServer.Tokens.TokenCleanupBackgroundWorker
+2020-11-03 21:05:06.443 +07:00 [INF] Application is shutting down...

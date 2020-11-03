@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.Domain/Acme.BookStore.Domain.csproj": {}
+  },
+  "projects": {
+    "/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.Domain.Shared/Acme.BookStore.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.Domain.Shared/Acme.BookStore.Domain.Shared.csproj",
+        "projectName": "Acme.BookStore.Domain.Shared",
+        "projectPath": "/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.Domain.Shared/Acme.BookStore.Domain.Shared.csproj",
+        "packagesPath": "/home/kynt/.nuget/packages/",
+        "outputPath": "/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.Domain.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kynt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.FileProviders.Embedded": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.AuditLogging.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Volo.Abp.BackgroundJobs.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Volo.Abp.FeatureManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Volo.Abp.Identity.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Volo.Abp.IdentityServer.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Volo.Abp.SettingManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Volo.Abp.TenantManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.Domain/Acme.BookStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.Domain/Acme.BookStore.Domain.csproj",
+        "projectName": "Acme.BookStore.Domain",
+        "projectPath": "/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.Domain/Acme.BookStore.Domain.csproj",
+        "packagesPath": "/home/kynt/.nuget/packages/",
+        "outputPath": "/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kynt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.Domain.Shared/Acme.BookStore.Domain.Shared.csproj": {
+                "projectPath": "/home/kynt/develop/projects/netcore-angular/abp-samples-all/abp-samples/BookStore-Blazor-EfCore/src/Acme.BookStore.Domain.Shared/Acme.BookStore.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Volo.Abp.AuditLogging.Domain": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Volo.Abp.BackgroundJobs.Domain": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Volo.Abp.Emailing": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Volo.Abp.FeatureManagement.Domain": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Volo.Abp.Identity.Domain": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Volo.Abp.IdentityServer.Domain": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Identity": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.IdentityServer": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Volo.Abp.SettingManagement.Domain": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Volo.Abp.TenantManagement.Domain": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
